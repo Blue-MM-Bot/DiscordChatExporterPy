@@ -135,7 +135,7 @@ class TranscriptDAO:
 
         sd = (
             '<div class="meta__support">'
-            '    <a href="https://ko-fi.com/mahtoid">DONATE</a>'
+            '    <a href="https://github.com/BestgamersH">Support</a>'
             '</div>'
         ) if self.support_dev else ""
 
